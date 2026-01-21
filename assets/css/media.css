@@ -1,0 +1,300 @@
+/* Media Queries */
+@media screen and (max-width:1101px) {
+  section.session-one .flex-compart {
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width:1073px) {
+
+  .map-dimension iframe {
+    width: 420px;
+  }
+  .stack-cluster {
+    width:390px;
+   
+  }
+
+  .title-cluster p {
+   font-size: 0.9rem;
+ }
+}
+
+@media screen and (max-width:1033px) {
+  section.session-two .flex-compart {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .content-img1 {
+     max-width:399px;
+     flex-wrap: wrap;
+     margin: 0 auto;
+  }
+
+  .img-parts-single {
+    max-width:399px;
+    padding: 10px 0;
+  }
+
+
+
+}
+
+@media screen and (max-width:982px) {
+   section.session-one .flex-compart {
+      justify-content: center;
+    }  
+    
+    .title-services {
+      text-align: center;
+    }
+
+    .border-right {
+      margin: 0 auto;
+    }
+
+    .card-services {
+      width:350px;
+    }
+
+    section.session-tree .flex-compart {
+      flex-wrap: wrap;
+    }
+
+}
+
+@media screen and (max-width:968px) {
+    nav.nav-desktop ul li {
+       padding:0 8px;
+    }
+}
+
+@media screen and (max-width:912px) {
+   .image-about {
+    max-width:280px;
+   }
+}
+
+@media screen and (max-width:903px) {
+   nav.nav-desktop ul {
+     display:none;
+   }
+
+   .button-header {
+     display:none;
+   }
+
+   nav.nav-mobile {
+     display:block;
+   }
+}
+
+@media screen and (max-width:874px) {
+   .map-dimension iframe {
+    width: 350px;
+  }
+  .stack-cluster {
+    width:300px;
+   
+  }
+}
+
+
+@media screen and (max-width:812px) {
+  .title-main h2 {
+    font-size: 4rem;
+   
+  }
+}
+
+@media screen and (max-width:798px) {
+  .input-text input[type=text] {
+      width:330px;
+  }
+
+  .input-text textarea {
+    width:330px;
+   
+   }
+
+   footer .flex-compart {
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+   } 
+
+   .page-area {
+     margin: 20px auto;
+   }
+
+   .logo-footer {
+     justify-content: center;
+   }
+
+   .social-footer {
+     justify-content: center;
+   }
+
+   .func-footer {
+    margin-bottom: 1rem;
+   }
+
+
+
+}
+
+@media screen and (max-width:794px) {
+  section.session-four .flex-compart {
+     flex-wrap: wrap;
+  }
+
+  .info-desk h2 {
+    font-size: 2.8rem;
+    text-align: center;
+   }
+
+   .image-about {
+      max-width:400px;
+      
+    }
+
+    section.session-five .flex-compart {
+     flex-direction: column;
+   }
+
+   .form-contact {
+     margin-bottom:1.5rem;
+   }
+
+  .map-dimension iframe {
+    width: 400px;
+  }
+  .stack-cluster {
+    width:380px;
+   
+  }
+}
+
+@media screen and (max-width:768px) {
+  .title-main h2 {
+    font-size: 3.8rem;
+    text-align: center;
+    margin: 0 auto;
+   
+  }
+
+  .text-main p {
+    font-size: 1rem;
+    max-width:550px;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .buttons-main {
+    justify-content: center;
+    margin-top:2rem;
+  }
+
+}
+
+@media screen and (max-width:619px) {
+  .title-main h2 {
+    font-size: 3rem;
+    text-align: center;
+    margin: 0 auto;
+   
+  }
+
+  .text-main p {
+    font-size: 0.9rem;
+
+  }
+
+  .buttons-main {
+    justify-content: center;
+    margin-top:2rem;
+  }
+
+  .btn-two {
+    padding:14px 28px;
+  }
+
+}
+
+@media screen and (max-width:519px) {
+    .title-disable h2 {
+      font-size:2.3rem;
+     
+    }
+
+    .title-disable p { 
+      text-align: center;
+      font-size:0.9rem;
+
+    }
+}
+
+@media screen and (max-width:430px) {
+     .title-main h2 {
+      font-size: 3rem;
+      text-align: center;
+      margin: 0 auto;
+   
+   }
+
+  .text-main p {
+    font-size: 1rem;
+    max-width:400px;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .buttons-main {
+    flex-direction: column;
+  }
+
+  .btn-two {
+    margin-bottom: 1rem;
+  }
+
+  .icon-hight {
+    width:40px;
+    height:40px;
+  }
+
+  .icon-hight i {
+   
+    font-size: 1.4rem;
+   
+}
+
+
+@media screen and (max-width:390px) {
+     .title-main h2 {
+      font-size:2.5rem;
+      
+   
+   }
+
+  .text-main p {
+    font-size: 1rem;
+    max-width:350px;
+   
+  }
+
+  .title-disable h2 {
+     font-size:1.5rem;
+ 
+  }
+
+   .map-dimension iframe {
+    width: 350px;
+  }
+  .stack-cluster {
+    width:290px;
+   
+  }
+}
+
+/***/

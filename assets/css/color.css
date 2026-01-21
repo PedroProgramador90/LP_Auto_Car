@@ -1,0 +1,20 @@
+/* Cores da página */
+:root {
+ --color-one:#000;
+ --color-two:#D3D0D0;
+ --color-tree:hsl(0, 0%, 8%);
+ --color-fou:#f01a1a;
+ --color-five:#ffffffff;
+ --color-six:#c51f1f;
+ --color-seven:#00000086;
+ --color-eight:#f2f3f52a;
+ --color-nine:#0b0f11;
+ --color-ten:#1d1d20;
+ --color-twelve:rgba(0, 0, 0, 0.08);
+ --color-thirteen:#92181888;
+ --color-fourteen:rgba(240, 26, 26, 0.55);
+ --color-fifteen:#09080a;
+ --color-sixteen:rgba(0, 0, 0, 0.432);
+}
+
+/***/
